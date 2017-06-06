@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Daily Calories</string>
+    <string-array name="exercises_arrays">
+        <item>little or no exercise</item>
+        <item>light exercise/sports 1-3 days/week</item>
+        <item>moderate exercise/sports 3-5 days/week</item>
+        <item>hard exercise/sports 6-7 days a week</item>
+    </string-array>
+</resources>
